@@ -1,0 +1,23 @@
+CS422		Human Computer Interaction
+==========================================
+323	14L-4222	Muhammad Ali
+320	14L-4212	Rida Anwar
+383	14L-4344	Hassan Jalal
+214	14L-4059	Abdur Rafay
+277	14L-4169	Nadia Batool
+498	14L-4521	Anas
+42	13L-4088	Naffah Amin
+431	14L-4401	Hassan Sohail
+317	14L-4205	Abdul Basit
+10	12L-4276	Ghayyur Ali
+84	13L-4328	Abdul Khaliq
+148	13L-5401	Rashid Mahmood
+292	14L-4191	Usman Kabir
+375	14L-4290	Burhan Tahir
+178	13L-5943	Hamza Farooq
+234	14L-4084	Maida Tariq
+268	14L-4161	Dawood Umer
+36	13L-4049	Sheraz Ahmad
+336	14L-4240	Muaaz Tariq
+308	14L-4197	Bilal Munir
+337	14L-4241	Waleed Amjad

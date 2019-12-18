@@ -1,0 +1,19 @@
+CS406		Web Programming
+==========================================
+254	14L-4143	Bilal Iqbal
+37	13L-4054	Najam Us Saqib
+63	13L-4253	Usama Zulfiqar
+394	14L-4346	Ahmad Waleed
+316	14L-4205	Abdul Basit
+247	14L-4118	Riaz Tariq
+162	13L-5837	Isfand Yar
+187	14I-1618	Asad Riaz
+78	13L-4322	Shahrose Khaliq
+45	13L-4144	Mehnoor Masood
+23	13L-4013	Farhan Ali
+359	14L-4270	Mohammad Iqbal
+173	13L-5943	Hamza Farooq
+50	13L-4159	Bilal Anees
+208	14L-4043	Tamoor Aslam
+304	14L-4197	Bilal Munir
+342	14L-4241	Waleed Amjad

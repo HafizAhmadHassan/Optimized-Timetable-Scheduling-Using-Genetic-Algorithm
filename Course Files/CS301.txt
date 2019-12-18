@@ -1,0 +1,6 @@
+CS301		Theory of Automata
+==========================================
+386	14L-4344	Hassan Jalal
+503	14L-4522	Ahsan Zafar
+19	12L-5541	Tauheed
+175	13L-5943	Hamza Farooq

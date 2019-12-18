@@ -1,0 +1,4 @@
+EE215		Computer Organization and Architecture
+==========================================
+485	14L-4514	Talha Rana
+460	14L-4493	Humza Ejaz

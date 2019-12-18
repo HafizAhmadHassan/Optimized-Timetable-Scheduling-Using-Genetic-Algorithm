@@ -1,0 +1,6 @@
+EE430		Power Distribution and Utilisation
+==========================================
+433	14L-4422	Usama Aslam
+117	13L-4509	Aneeq Ali
+472	14L-4505	Hassan Zahid
+128	13L-4555	Rizwan Mahmood

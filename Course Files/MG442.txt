@@ -1,0 +1,7 @@
+MG442		Islamic Banking
+==========================================
+20	12L-5623	Saira Shahid
+556	14L-4784	Taha Noman
+143	13L-4793	Shuja Ur Rehman
+567	14L-4814	Omar Mahmood
+142	13L-4753	Hamza Tayyub

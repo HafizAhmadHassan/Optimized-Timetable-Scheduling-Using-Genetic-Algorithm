@@ -1,0 +1,30 @@
+EE204		Computer Architecture
+==========================================
+321	14L-4212	Rida Anwar
+363	14L-4278	Momin Shoaib
+40	13L-4088	Naffah Amin
+183	14F-8276	Musawar Mehdi
+242	14L-4116	Meesam Ali
+381	14L-4314	Abdul Hanan
+179	13P-6014	Muhammad Ahmad
+24	13L-4013	Farhan Ali
+165	13L-5844	Waqas Nadeem
+218	14L-4062	Uzair Ahmed
+233	14L-4084	Maida Tariq
+274	14L-4162	Farukh Jamal
+332	14L-4240	Muaaz Tariq
+341	14L-4241	Waleed Amjad
+202	14L-4023	Ghilman Khurshid
+325	14L-4222	Muhammad Ali
+387	14L-4344	Hassan Jalal
+429	14L-4401	Hassan Sohail
+504	14L-4522	Ahsan Zafar
+346	14L-4248	Hassan Zubair
+6	12L-4159	Hammad Javed
+1	12L-4017	Fauz Ahmad
+287	14L-4190	Arslan
+260	14L-4150	Habibah Shahid
+300	14L-4195	Asim Waqar
+284	14L-4174	Muhammad Abdullah
+351	14L-4251	Aqsa Bajwa
+228	14L-4076	Usman Javed

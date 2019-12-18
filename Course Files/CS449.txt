@@ -1,0 +1,21 @@
+CS449		Professional Issues in IT
+==========================================
+255	14L-4143	Bilal Iqbal
+405	14L-4363	Sumayya Tanveer
+153	13L-5492	Saud Zaman
+203	14L-4023	Ghilman Khurshid
+319	14L-4212	Rida Anwar
+423	14L-4399	Muhammad Sheraz
+495	14L-4520	Taimoor Mirza
+212	14L-4059	Abdur Rafay
+240	14L-4116	Meesam Ali
+380	14L-4314	Abdul Hanan
+9	12L-4276	Ghayyur Ali
+160	13L-5837	Isfand Yar
+285	14L-4190	Arslan
+358	14L-4270	Mohammad Iqbal
+216	14L-4062	Uzair Ahmed
+232	14L-4084	Maida Tariq
+271	14L-4162	Farukh Jamal
+299	14L-4195	Asim Waqar
+355	14L-4262	Saba Abbas

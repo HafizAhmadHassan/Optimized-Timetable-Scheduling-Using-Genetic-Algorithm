@@ -1,0 +1,6 @@
+CS317		Information Retrieval
+==========================================
+196	14L-4014	Abdul Rafey
+65	13L-4253	Usama Zulfiqar
+70	13L-4294	Muhammad Haris
+248	14L-4118	Riaz Tariq

@@ -1,0 +1,6 @@
+EE426		Industrial Processes Control
+==========================================
+459	14L-4468	Aaqib Naeem
+476	14L-4513	Mudassar Seemab
+487	14L-4517	Shehryar Hasan
+125	13L-4555	Rizwan Mahmood

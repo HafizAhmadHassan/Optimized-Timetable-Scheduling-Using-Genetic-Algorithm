@@ -1,0 +1,5 @@
+SS103		Arabic Language
+==========================================
+60	13L-4240	Usama Sajid
+223	14L-4070	Muhammad Ehsan
+181	13P-6095	Afzal Tariq

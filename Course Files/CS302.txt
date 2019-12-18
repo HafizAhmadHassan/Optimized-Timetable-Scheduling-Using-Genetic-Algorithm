@@ -1,0 +1,13 @@
+CS302		Design and Analysis of Algorithms
+==========================================
+253	14L-4143	Bilal Iqbal
+180	13P-6058	Muhammad Omaid
+366	14L-4278	Momin Shoaib
+422	14L-4399	Muhammad Sheraz
+500	14L-4521	Anas
+192	14L-4006	Maha Saeed
+310	14L-4204	Hamza Mansoor
+344	14L-4248	Hassan Zubair
+79	13L-4322	Shahrose Khaliq
+18	12L-5541	Tauheed
+164	13L-5844	Waqas Nadeem

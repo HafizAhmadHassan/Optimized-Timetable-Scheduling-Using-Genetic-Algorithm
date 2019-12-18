@@ -1,0 +1,10 @@
+CS401		Artificial Intelligence
+==========================================
+201	14L-4023	Ghilman Khurshid
+388	14L-4344	Hassan Jalal
+392	14L-4346	Ahmad Waleed
+505	14L-4522	Ahsan Zafar
+190	14L-4006	Maha Saeed
+309	14L-4204	Hamza Mansoor
+314	14L-4205	Abdul Basit
+166	13L-5844	Waqas Nadeem

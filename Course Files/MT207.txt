@@ -1,0 +1,8 @@
+MT207		Numerical Methods
+==========================================
+348	14L-4248	Hassan Zubair
+4	12L-4017	Fauz Ahmad
+59	13L-4240	Usama Sajid
+182	13P-6095	Afzal Tariq
+219	14L-4062	Uzair Ahmed
+51	13L-4159	Bilal Anees

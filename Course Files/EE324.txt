@@ -1,0 +1,5 @@
+EE324		Power Electronics
+==========================================
+451	14L-4457	Mehran Shahid
+457	14L-4468	Aaqib Naeem
+123	13L-4509	Aneeq Ali

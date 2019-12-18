@@ -1,0 +1,15 @@
+MG414		Entrepreneurship
+==========================================
+536	14L-4771	Ghulam Mustafa
+559	14L-4793	Javeria Badar
+437	14L-4431	Shahzeb Tauqir
+409	14L-4388	Ali Adnan
+523	14L-4652	Kainat Rasheed
+541	14L-4773	Zeeshan Shahid
+474	14L-4513	Mudassar Seemab
+489	14L-4517	Shehryar Hasan
+566	14L-4814	Omar Mahmood
+118	13L-4509	Aneeq Ali
+138	13L-4733	Ameera Iqbal
+415	14L-4392	Atif Farooq
+126	13L-4555	Rizwan Mahmood

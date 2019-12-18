@@ -1,0 +1,8 @@
+CS205		Operating Systems
+==========================================
+90	13L-4419	Waleed Ahmed
+53	13L-4181	Abdullah Hussain
+276	14L-4169	Nadia Batool
+499	14L-4521	Anas
+390	14L-4346	Ahmad Waleed
+244	14L-4116	Meesam Ali

@@ -1,0 +1,579 @@
+2		11L-4756		Zainab Zahid		BBA		SS127		Sociology		0		
+4		12L-4017		Fauz Ahmad		BS(CS)		EE204		Computer Architecture		1		
+5		12L-4017		Fauz Ahmad		BS(CS)		CS411		Network Security		2		
+6		12L-4017		Fauz Ahmad		BS(CS)		CS402		Compiler Construction		3		
+7		12L-4017		Fauz Ahmad		BS(CS)		MT207		Numerical Methods		4		
+8		12L-4017		Fauz Ahmad		BS(CS)		CS492		Project - II		5		
+9		12L-4159		Hammad Javed		BS(CS)		EE204		Computer Architecture		6		
+10		12L-4159		Hammad Javed		BS(CS)		CL307		Computer Networks Lab		7		
+11		12L-4159		Hammad Javed		BS(CS)		CS307		Computer Networks		8		
+12		12L-4276		Ghayyur Ali		BS(CS)		CS449		Professional Issues in IT		9		
+13		12L-4276		Ghayyur Ali		BS(CS)		CS422		Human Computer Interaction		10		
+14		12L-4276		Ghayyur Ali		BS(CS)		CS497		Software Testing		11		
+15		12L-4276		Ghayyur Ali		BS(CS)		CS492		Project - II		12		
+16		12L-4990		Musa Hasan		BS(AF)		MG416		Financial Risk Management		13		
+17		12L-4990		Musa Hasan		BS(AF)		MG428		Taxation		14		
+18		12L-4990		Musa Hasan		BS(AF)		MG326		Corporate Accounting-II		15		
+22		12L-5541		Tauheed		BS(CS)		CS411		Network Security		16		
+23		12L-5541		Tauheed		BS(CS)		CS447		Enterprise Information System		17		
+24		12L-5541		Tauheed		BS(CS)		CS302		Design and Analysis of Algorithms		18		
+25		12L-5541		Tauheed		BS(CS)		CS301		Theory of Automata		19		
+26		12L-5623		Saira Shahid		BBA		MG442		Islamic Banking		20		
+27		12L-5623		Saira Shahid		BBA		MG336		Principles of Leadership		21		
+28		12L-5623		Saira Shahid		BBA		MG409		Organizational Development and Change		22		
+29		13L-4013		Farhan Ali		BS(CS)		CS406		Web Programming		23		
+30		13L-4013		Farhan Ali		BS(CS)		EE204		Computer Architecture		24		
+31		13L-4038		Muhammad Hanif		BS(CS)		CS411		Network Security		25		
+32		13L-4038		Muhammad Hanif		BS(CS)		MT115		Calculus - II		26		
+33		13L-4038		Muhammad Hanif		BS(CS)		SS104		French Language		27		
+34		13L-4038		Muhammad Hanif		BS(CS)		CS433		Advanced Programming		28		
+35		13L-4038		Muhammad Hanif		BS(CS)		CS451		Advance Database Concepts		29		
+36		13L-4038		Muhammad Hanif		BS(CS)		CS492		Project - II		30		
+37		13L-4049		Sheraz Ahmad		BS(CS)		CS303		Software Engineering		31		
+38		13L-4049		Sheraz Ahmad		BS(CS)		CS307		Computer Networks		32		
+39		13L-4049		Sheraz Ahmad		BS(CS)		CS411		Network Security		33		
+40		13L-4049		Sheraz Ahmad		BS(CS)		CS497		Software Testing		34		
+41		13L-4049		Sheraz Ahmad		BS(CS)		CL307		Computer Networks Lab		35		
+42		13L-4049		Sheraz Ahmad		BS(CS)		CS422		Human Computer Interaction		36		
+43		13L-4054		Najam Us Saqib		BS(CS)		CS406		Web Programming		37		
+44		13L-4054		Najam Us Saqib		BS(CS)		SS108		Technical and Business Writing		38		
+45		13L-4088		Naffah Amin		BS(CS)		MG211		Total Quality Management		39		
+46		13L-4088		Naffah Amin		BS(CS)		EE204		Computer Architecture		40		
+47		13L-4088		Naffah Amin		BS(CS)		CS303		Software Engineering		41		
+48		13L-4088		Naffah Amin		BS(CS)		CS422		Human Computer Interaction		42		
+49		13L-4088		Naffah Amin		BS(CS)		CS491		Project - I		43		
+50		13L-4093		Muhammad Kazim		BS(CS)		CS440		Software for Mobile Devices		44		
+51		13L-4144		Mehnoor Masood		BS(CS)		CS406		Web Programming		45		
+52		13L-4144		Mehnoor Masood		BS(CS)		CS492		Project - II		46		
+53		13L-4155		Mudassar Sharif		BS(CS)		CS497		Software Testing		47		
+54		13L-4159		Bilal Anees		BS(CS)		CS481		Data Science		48		
+55		13L-4159		Bilal Anees		BS(CS)		CS497		Software Testing		49		
+56		13L-4159		Bilal Anees		BS(CS)		CS406		Web Programming		50		
+57		13L-4159		Bilal Anees		BS(CS)		MT207		Numerical Methods		51		
+58		13L-4181		Abdullah Hussain		BS(CS)		CL205		Operating Systems Lab		52		
+59		13L-4181		Abdullah Hussain		BS(CS)		CS205		Operating Systems		53		
+60		13L-4181		Abdullah Hussain		BS(CS)		CS309		Object Oriented Analysis and Design		54		
+61		13L-4181		Abdullah Hussain		BS(CS)		CL309		Object Oriented Analysis and Design Lab		55		
+62		13L-4214		Muhammad Ahmad		BS(CS)		CS447		Enterprise Information System		56		
+63		13L-4240		Usama Sajid		BS(CS)		SS220		Modern Politics and Government		57		
+64		13L-4240		Usama Sajid		BS(CS)		CS447		Enterprise Information System		58		
+65		13L-4240		Usama Sajid		BS(CS)		MT207		Numerical Methods		59		
+66		13L-4240		Usama Sajid		BS(CS)		SS103		Arabic Language		60		
+67		13L-4240		Usama Sajid		BS(CS)		CS492		Project - II		61		
+68		13L-4253		Usama Zulfiqar		BS(CS)		EE402		Digital Image Processing		62		
+69		13L-4253		Usama Zulfiqar		BS(CS)		CS406		Web Programming		63		
+70		13L-4253		Usama Zulfiqar		BS(CS)		CS497		Software Testing		64		
+71		13L-4253		Usama Zulfiqar		BS(CS)		CS317		Information Retrieval		65		
+72		13L-4253		Usama Zulfiqar		BS(CS)		CS447		Enterprise Information System		66		
+73		13L-4253		Usama Zulfiqar		BS(CS)		CS492		Project - II		67		
+74		13L-4294		Muhammad Haris		BS(CS)		EE402		Digital Image Processing		68		
+75		13L-4294		Muhammad Haris		BS(CS)		CS447		Enterprise Information System		69		
+76		13L-4294		Muhammad Haris		BS(CS)		CS317		Information Retrieval		70		
+77		13L-4316		Usman Shabbir		BS(CS)		CS411		Network Security		71		
+78		13L-4316		Usman Shabbir		BS(CS)		CS481		Data Science		72		
+79		13L-4322		Shahrose Khaliq		BS(CS)		CS203		Database Systems		73		
+80		13L-4322		Shahrose Khaliq		BS(CS)		CS309		Object Oriented Analysis and Design		74		
+81		13L-4322		Shahrose Khaliq		BS(CS)		CL309		Object Oriented Analysis and Design Lab		75		
+82		13L-4322		Shahrose Khaliq		BS(CS)		CL203		Database Systems Lab		76		
+83		13L-4322		Shahrose Khaliq		BS(CS)		CS440		Software for Mobile Devices		77		
+84		13L-4322		Shahrose Khaliq		BS(CS)		CS406		Web Programming		78		
+85		13L-4322		Shahrose Khaliq		BS(CS)		CS302		Design and Analysis of Algorithms		79		
+86		13L-4328		Abdul Khaliq		BS(CS)		CL307		Computer Networks Lab		80		
+87		13L-4328		Abdul Khaliq		BS(CS)		CS307		Computer Networks		81		
+88		13L-4328		Abdul Khaliq		BS(CS)		CS303		Software Engineering		82		
+89		13L-4328		Abdul Khaliq		BS(CS)		CS491		Project - I		83		
+90		13L-4328		Abdul Khaliq		BS(CS)		CS422		Human Computer Interaction		84		
+91		13L-4347		Muhammad Asif		BS(CS)		CL307		Computer Networks Lab		85		
+92		13L-4347		Muhammad Asif		BS(CS)		CS307		Computer Networks		86		
+93		13L-4347		Muhammad Asif		BS(CS)		CS303		Software Engineering		87		
+94		13L-4347		Muhammad Asif		BS(CS)		CS491		Project - I		88		
+95		13L-4419		Waleed Ahmed		BS(EE)		CS531		Machine Learning		89		
+96		13L-4419		Waleed Ahmed		BS(EE)		CS205		Operating Systems		90		
+97		13L-4419		Waleed Ahmed		BS(EE)		CS213		Fundamentals of Databases		91		
+98		13L-4419		Waleed Ahmed		BS(EE)		CL213		Fundamentals of Databases - Lab		92		
+99		13L-4419		Waleed Ahmed		BS(EE)		MT306		Multivariable Calculus		93		
+100		13L-4419		Waleed Ahmed		BS(EE)		CL205		Operating Systems Lab		94		
+101		13L-4419		Waleed Ahmed		BS(EE)		EE482		Project - I		95		
+102		13L-4428		Muhammad Raza		BS(EE)		CS210		Data Structures and Algorithms		96		
+103		13L-4428		Muhammad Raza		BS(EE)		EL304		Feedback Control Systems Lab		97		
+104		13L-4428		Muhammad Raza		BS(EE)		EL302		Digital Signal Processing Lab		98		
+105		13L-4428		Muhammad Raza		BS(EE)		EL215		Comp. Organization and Architecture Lab		99		
+106		13L-4438		Talha Babar		BS(EE)		EE317		Data Communication and Networks		100		
+107		13L-4438		Talha Babar		BS(EE)		EE433		Power Generation		101		
+108		13L-4438		Talha Babar		BS(EE)		EL302		Digital Signal Processing Lab		102		
+109		13L-4438		Talha Babar		BS(EE)		EL317		Data Communication and Networks Lab		103		
+110		13L-4438		Talha Babar		BS(EE)		EE112		Programming for Engineers - II		104		
+111		13L-4438		Talha Babar		BS(EE)		EL112		Programming for Engineers - II Lab		105		
+112		13L-4438		Talha Babar		BS(EE)		EE483		Project - II		106		
+113		13L-4483		Haseeb Ahsan		BS(EE)		EE221		Electro Mechanical Systems		107		
+114		13L-4483		Haseeb Ahsan		BS(EE)		EE323		Analogue and Digital Communication		108		
+115		13L-4483		Haseeb Ahsan		BS(EE)		EL323		Analogue and Digital Communication - Lab		109		
+116		13L-4483		Haseeb Ahsan		BS(EE)		EE317		Data Communication and Networks		110		
+117		13L-4483		Haseeb Ahsan		BS(EE)		EL221		Electro Mechanical Systems Lab		111		
+118		13L-4483		Haseeb Ahsan		BS(EE)		EE303		µP Interfacing and Programming		112		
+119		13L-4483		Haseeb Ahsan		BS(EE)		EL317		Data Communication and Networks Lab		113		
+120		13L-4483		Haseeb Ahsan		BS(EE)		EL303		µP Interfacing and Programming Lab		114		
+121		13L-4483		Haseeb Ahsan		BS(EE)		EE483		Project - II		115		
+122		13L-4509		Aneeq Ali		BS(EE)		EE303		µP Interfacing and Programming		116		
+123		13L-4509		Aneeq Ali		BS(EE)		EE430		Power Distribution and Utilisation		117		
+124		13L-4509		Aneeq Ali		BS(EE)		MG414		Entrepreneurship		118		
+125		13L-4509		Aneeq Ali		BS(EE)		EL430		Power Distribution and Utilisation Lab		119		
+126		13L-4509		Aneeq Ali		BS(EE)		EL324		Power Electronics - Lab		120		
+127		13L-4509		Aneeq Ali		BS(EE)		EL303		µP Interfacing and Programming Lab		121		
+128		13L-4509		Aneeq Ali		BS(EE)		CS210		Data Structures and Algorithms		122		
+129		13L-4509		Aneeq Ali		BS(EE)		EE324		Power Electronics		123		
+130		13L-4555		Rizwan Mahmood		BS(EE)		EL430		Power Distribution and Utilisation Lab		124		
+131		13L-4555		Rizwan Mahmood		BS(EE)		EE426		Industrial Processes Control		125		
+132		13L-4555		Rizwan Mahmood		BS(EE)		MG414		Entrepreneurship		126		
+133		13L-4555		Rizwan Mahmood		BS(EE)		EE302		Digital Signal Processing		127		
+134		13L-4555		Rizwan Mahmood		BS(EE)		EE430		Power Distribution and Utilisation		128		
+135		13L-4555		Rizwan Mahmood		BS(EE)		EE303		µP Interfacing and Programming		129		
+136		13L-4555		Rizwan Mahmood		BS(EE)		EL426		Industrial Processes Control Lab		130		
+137		13L-4555		Rizwan Mahmood		BS(EE)		EL302		Digital Signal Processing Lab		131		
+138		13L-4555		Rizwan Mahmood		BS(EE)		EL303		µP Interfacing and Programming Lab		132		
+139		13L-4555		Rizwan Mahmood		BS(EE)		EE483		Project - II		133		
+140		13L-4733		Ameera Iqbal		BBA		MG409		Organizational Development and Change		134		
+141		13L-4733		Ameera Iqbal		BBA		MG302		Business Law		135		
+142		13L-4733		Ameera Iqbal		BBA		CS310		Management Info. Systems		136		
+143		13L-4733		Ameera Iqbal		BBA		MG324		Business Ethics		137		
+144		13L-4733		Ameera Iqbal		BBA		MG414		Entrepreneurship		138		
+145		13L-4733		Ameera Iqbal		BBA		MG419		Final Year Project - II		139		
+146		13L-4753		Hamza Tayyub		BBA		MG409		Organizational Development and Change		140		
+147		13L-4753		Hamza Tayyub		BBA		SS118		Psychology		141		
+148		13L-4753		Hamza Tayyub		BBA		MG442		Islamic Banking		142		
+149		13L-4793		Shuja Ur Rehman		BBA		MG442		Islamic Banking		143		
+150		13L-4923		Ijlal		BS(AF)		MG428		Taxation		144		
+151		13L-4923		Ijlal		BS(AF)		MG326		Corporate Accounting-II		145		
+152		13L-4923		Ijlal		BS(AF)		MG314		Financial Statement Analysis		146		
+153		13L-4923		Ijlal		BS(AF)		MG416		Financial Risk Management		147		
+154		13L-5401		Rashid Mahmood		BS(CS)		CS422		Human Computer Interaction		148		
+155		13L-5401		Rashid Mahmood		BS(CS)		CS303		Software Engineering		149		
+156		13L-5401		Rashid Mahmood		BS(CS)		CS307		Computer Networks		150		
+157		13L-5401		Rashid Mahmood		BS(CS)		CL307		Computer Networks Lab		151		
+158		13L-5401		Rashid Mahmood		BS(CS)		CS491		Project - I		152		
+159		13L-5492		Saud Zaman		BS(CS)		CS449		Professional Issues in IT		153		
+160		13L-5492		Saud Zaman		BS(CS)		SS113		Pakistan Studies		154		
+161		13L-5492		Saud Zaman		BS(CS)		CS481		Data Science		155		
+162		13L-5492		Saud Zaman		BS(CS)		CS497		Software Testing		156		
+163		13L-5492		Saud Zaman		BS(CS)		CS491		Project - I		157		
+164		13L-5837		Isfand Yar		BS(CS)		CS447		Enterprise Information System		158		
+165		13L-5837		Isfand Yar		BS(CS)		CL307		Computer Networks Lab		159		
+166		13L-5837		Isfand Yar		BS(CS)		CS449		Professional Issues in IT		160		
+167		13L-5837		Isfand Yar		BS(CS)		CS307		Computer Networks		161		
+168		13L-5837		Isfand Yar		BS(CS)		CS406		Web Programming		162		
+169		13L-5837		Isfand Yar		BS(CS)		CS492		Project - II		163		
+170		13L-5844		Waqas Nadeem		BS(CS)		CS302		Design and Analysis of Algorithms		164		
+171		13L-5844		Waqas Nadeem		BS(CS)		EE204		Computer Architecture		165		
+172		13L-5844		Waqas Nadeem		BS(CS)		CS401		Artificial Intelligence		166		
+173		13L-5844		Waqas Nadeem		BS(CS)		CS440		Software for Mobile Devices		167		
+174		13L-5844		Waqas Nadeem		BS(CS)		CL309		Object Oriented Analysis and Design Lab		168		
+175		13L-5844		Waqas Nadeem		BS(CS)		CL205		Operating Systems Lab		169		
+176		13L-5844		Waqas Nadeem		BS(CS)		CS309		Object Oriented Analysis and Design		170		
+177		13L-5927		Rahma Sajjad		BS(AF)		MG326		Corporate Accounting-II		171		
+178		13L-5927		Rahma Sajjad		BS(AF)		MG428		Taxation		172		
+179		13L-5943		Hamza Farooq		BS(CS)		CS406		Web Programming		173		
+180		13L-5943		Hamza Farooq		BS(CS)		CS307		Computer Networks		174		
+181		13L-5943		Hamza Farooq		BS(CS)		CS301		Theory of Automata		175		
+182		13L-5943		Hamza Farooq		BS(CS)		CL307		Computer Networks Lab		176		
+183		13L-5943		Hamza Farooq		BS(CS)		CS433		Advanced Programming		177		
+184		13L-5943		Hamza Farooq		BS(CS)		CS422		Human Computer Interaction		178		
+185		13P-6014		Muhammad Ahmad		BS(CS)		EE204		Computer Architecture		179		
+186		13P-6058		Muhammad Omaid		BS(CS)		CS302		Design and Analysis of Algorithms		180		
+187		13P-6095		Afzal Tariq		BS(CS)		SS103		Arabic Language		181		
+188		13P-6095		Afzal Tariq		BS(CS)		MT207		Numerical Methods		182		
+189		14F-8276		Musawar Mehdi		BS(CS)		EE204		Computer Architecture		183		
+190		14I-0242		Waqar Aslam		BS(CS)		CS440		Software for Mobile Devices		184		
+191		14I-0242		Waqar Aslam		BS(CS)		CS497		Software Testing		185		
+192		14I-1618		Asad Riaz		BS(CS)		CS481		Data Science		186		
+193		14I-1618		Asad Riaz		BS(CS)		CS406		Web Programming		187		
+194		14L-4006		Maha Saeed		BS(CS)		CS451		Advance Database Concepts		188		
+195		14L-4006		Maha Saeed		BS(CS)		EL213		Comp. Organization and Assembly Lang. Lab		189		
+196		14L-4006		Maha Saeed		BS(CS)		CS401		Artificial Intelligence		190		
+197		14L-4006		Maha Saeed		BS(CS)		EE213		Comp. Organization and Assembly Lang.		191		
+198		14L-4006		Maha Saeed		BS(CS)		CS302		Design and Analysis of Algorithms		192		
+199		14L-4006		Maha Saeed		BS(CS)		CS307		Computer Networks		193		
+200		14L-4006		Maha Saeed		BS(CS)		CL307		Computer Networks Lab		194		
+201		14L-4014		Abdul Rafey		BS(CS)		CS307		Computer Networks		195		
+202		14L-4014		Abdul Rafey		BS(CS)		CS317		Information Retrieval		196		
+203		14L-4014		Abdul Rafey		BS(CS)		CL307		Computer Networks Lab		197		
+204		14L-4014		Abdul Rafey		BS(CS)		CS495		Fundamental of Computer Vision		198		
+205		14L-4014		Abdul Rafey		BS(CS)		CS303		Software Engineering		199		
+206		14L-4014		Abdul Rafey		BS(CS)		CS491		Project - I		200		
+207		14L-4023		Ghilman Khurshid		BS(CS)		CS401		Artificial Intelligence		201		
+208		14L-4023		Ghilman Khurshid		BS(CS)		EE204		Computer Architecture		202		
+209		14L-4023		Ghilman Khurshid		BS(CS)		CS449		Professional Issues in IT		203		
+210		14L-4023		Ghilman Khurshid		BS(CS)		CS307		Computer Networks		204		
+211		14L-4023		Ghilman Khurshid		BS(CS)		CS495		Fundamental of Computer Vision		205		
+212		14L-4023		Ghilman Khurshid		BS(CS)		CL307		Computer Networks Lab		206		
+213		14L-4023		Ghilman Khurshid		BS(CS)		CS492		Project - II		207		
+214		14L-4043		Tamoor Aslam		BS(CS)		CS406		Web Programming		208		
+215		14L-4043		Tamoor Aslam		BS(CS)		SS104		French Language		209		
+216		14L-4043		Tamoor Aslam		BS(CS)		CS402		Compiler Construction		210		
+217		14L-4059		Abdur Rafay		BS(CS)		CS481		Data Science		211		
+218		14L-4059		Abdur Rafay		BS(CS)		CS449		Professional Issues in IT		212		
+219		14L-4059		Abdur Rafay		BS(CS)		CS497		Software Testing		213		
+220		14L-4059		Abdur Rafay		BS(CS)		CS422		Human Computer Interaction		214		
+221		14L-4059		Abdur Rafay		BS(CS)		CS492		Project - II		215		
+222		14L-4062		Uzair Ahmed		BS(CS)		CS449		Professional Issues in IT		216		
+223		14L-4062		Uzair Ahmed		BS(CS)		CS411		Network Security		217		
+224		14L-4062		Uzair Ahmed		BS(CS)		EE204		Computer Architecture		218		
+225		14L-4062		Uzair Ahmed		BS(CS)		MT207		Numerical Methods		219		
+226		14L-4062		Uzair Ahmed		BS(CS)		CS491		Project - I		220		
+227		14L-4070		Muhammad Ehsan		BS(CS)		CS411		Network Security		221		
+228		14L-4070		Muhammad Ehsan		BS(CS)		CS495		Fundamental of Computer Vision		222		
+229		14L-4070		Muhammad Ehsan		BS(CS)		SS103		Arabic Language		223		
+230		14L-4070		Muhammad Ehsan		BS(CS)		SS118		Psychology		224		
+231		14L-4076		Usman Javed		BS(CS)		CS451		Advance Database Concepts		225		
+232		14L-4076		Usman Javed		BS(CS)		CS307		Computer Networks		226		
+233		14L-4076		Usman Javed		BS(CS)		CL307		Computer Networks Lab		227		
+234		14L-4076		Usman Javed		BS(CS)		EE204		Computer Architecture		228		
+235		14L-4076		Usman Javed		BS(CS)		SS118		Psychology		229		
+236		14L-4076		Usman Javed		BS(CS)		CS491		Project - I		230		
+237		14L-4084		Maida Tariq		BS(CS)		CS447		Enterprise Information System		231		
+238		14L-4084		Maida Tariq		BS(CS)		CS449		Professional Issues in IT		232		
+239		14L-4084		Maida Tariq		BS(CS)		EE204		Computer Architecture		233		
+240		14L-4084		Maida Tariq		BS(CS)		CS422		Human Computer Interaction		234		
+241		14L-4084		Maida Tariq		BS(CS)		CS491		Project - I		235		
+242		14L-4103		Abdul Sami		BS(CS)		CS433		Advanced Programming		236		
+243		14L-4103		Abdul Sami		BS(CS)		CS440		Software for Mobile Devices		237		
+244		14L-4103		Abdul Sami		BS(CS)		CS492		Project - II		238		
+245		14L-4116		Meesam Ali		BS(CS)		CL205		Operating Systems Lab		239		
+246		14L-4116		Meesam Ali		BS(CS)		CS449		Professional Issues in IT		240		
+247		14L-4116		Meesam Ali		BS(CS)		CS447		Enterprise Information System		241		
+248		14L-4116		Meesam Ali		BS(CS)		EE204		Computer Architecture		242		
+249		14L-4116		Meesam Ali		BS(CS)		CS440		Software for Mobile Devices		243		
+250		14L-4116		Meesam Ali		BS(CS)		CS205		Operating Systems		244		
+251		14L-4116		Meesam Ali		BS(CS)		CS492		Project - II		245		
+252		14L-4118		Riaz Tariq		BS(CS)		CS440		Software for Mobile Devices		246		
+253		14L-4118		Riaz Tariq		BS(CS)		CS406		Web Programming		247		
+254		14L-4118		Riaz Tariq		BS(CS)		CS317		Information Retrieval		248		
+255		14L-4118		Riaz Tariq		BS(CS)		CS497		Software Testing		249		
+256		14L-4118		Riaz Tariq		BS(CS)		SS108		Technical and Business Writing		250		
+257		14L-4118		Riaz Tariq		BS(CS)		CS492		Project - II		251		
+258		14L-4143		Bilal Iqbal		BS(CS)		CS447		Enterprise Information System		252		
+259		14L-4143		Bilal Iqbal		BS(CS)		CS302		Design and Analysis of Algorithms		253		
+260		14L-4143		Bilal Iqbal		BS(CS)		CS406		Web Programming		254		
+261		14L-4143		Bilal Iqbal		BS(CS)		CS449		Professional Issues in IT		255		
+262		14L-4150		Habibah Shahid		BS(CS)		CS440		Software for Mobile Devices		256		
+263		14L-4150		Habibah Shahid		BS(CS)		CL205		Operating Systems Lab		257		
+264		14L-4150		Habibah Shahid		BS(CS)		CS307		Computer Networks		258		
+265		14L-4150		Habibah Shahid		BS(CS)		CS451		Advance Database Concepts		259		
+266		14L-4150		Habibah Shahid		BS(CS)		EE204		Computer Architecture		260		
+267		14L-4150		Habibah Shahid		BS(CS)		CL307		Computer Networks Lab		261		
+268		14L-4150		Habibah Shahid		BS(CS)		CS491		Project - I		262		
+269		14L-4156		Ibrahim Khwaja		BS(CS)		CS447		Enterprise Information System		263		
+270		14L-4156		Ibrahim Khwaja		BS(CS)		CS433		Advanced Programming		264		
+271		14L-4161		Dawood Umer		BS(CS)		SS122		English Composition		265		
+272		14L-4161		Dawood Umer		BS(CS)		CS440		Software for Mobile Devices		266		
+273		14L-4161		Dawood Umer		BS(CS)		MT115		Calculus - II		267		
+274		14L-4161		Dawood Umer		BS(CS)		CS422		Human Computer Interaction		268		
+275		14L-4161		Dawood Umer		BS(CS)		CS495		Fundamental of Computer Vision		269		
+276		14L-4162		Farukh Jamal		BS(CS)		CS307		Computer Networks		270		
+277		14L-4162		Farukh Jamal		BS(CS)		CS449		Professional Issues in IT		271		
+278		14L-4162		Farukh Jamal		BS(CS)		CL307		Computer Networks Lab		272		
+279		14L-4162		Farukh Jamal		BS(CS)		CS447		Enterprise Information System		273		
+280		14L-4162		Farukh Jamal		BS(CS)		EE204		Computer Architecture		274		
+281		14L-4162		Farukh Jamal		BS(CS)		CS492		Project - II		275		
+282		14L-4169		Nadia Batool		BS(CS)		CS205		Operating Systems		276		
+283		14L-4169		Nadia Batool		BS(CS)		CS422		Human Computer Interaction		277		
+284		14L-4169		Nadia Batool		BS(CS)		CS303		Software Engineering		278		
+285		14L-4169		Nadia Batool		BS(CS)		CL307		Computer Networks Lab		279		
+286		14L-4169		Nadia Batool		BS(CS)		CS307		Computer Networks		280		
+287		14L-4169		Nadia Batool		BS(CS)		CL205		Operating Systems Lab		281		
+288		14L-4169		Nadia Batool		BS(CS)		CS491		Project - I		282		
+289		14L-4174		Muhammad Abdullah		BS(CS)		EE402		Digital Image Processing		283		
+290		14L-4174		Muhammad Abdullah		BS(CS)		EE204		Computer Architecture		284		
+291		14L-4190		Arslan		BS(CS)		CS449		Professional Issues in IT		285		
+292		14L-4190		Arslan		BS(CS)		CL307		Computer Networks Lab		286		
+293		14L-4190		Arslan		BS(CS)		EE204		Computer Architecture		287		
+294		14L-4190		Arslan		BS(CS)		CS307		Computer Networks		288		
+295		14L-4190		Arslan		BS(CS)		CS495		Fundamental of Computer Vision		289		
+296		14L-4190		Arslan		BS(CS)		CS491		Project - I		290		
+297		14L-4191		Usman Kabir		BS(CS)		CS307		Computer Networks		291		
+298		14L-4191		Usman Kabir		BS(CS)		CS422		Human Computer Interaction		292		
+299		14L-4191		Usman Kabir		BS(CS)		CS303		Software Engineering		293		
+300		14L-4191		Usman Kabir		BS(CS)		CL307		Computer Networks Lab		294		
+301		14L-4191		Usman Kabir		BS(CS)		CS481		Data Science		295		
+302		14L-4191		Usman Kabir		BS(CS)		CS491		Project - I		296		
+303		14L-4195		Asim Waqar		BS(CS)		CS307		Computer Networks		297		
+304		14L-4195		Asim Waqar		BS(CS)		CL307		Computer Networks Lab		298		
+305		14L-4195		Asim Waqar		BS(CS)		CS449		Professional Issues in IT		299		
+306		14L-4195		Asim Waqar		BS(CS)		EE204		Computer Architecture		300		
+307		14L-4195		Asim Waqar		BS(CS)		CS492		Project - II		301		
+308		14L-4197		Bilal Munir		BS(CS)		CL205		Operating Systems Lab		302		
+309		14L-4197		Bilal Munir		BS(CS)		EL213		Comp. Organization and Assembly Lang. Lab		303		
+310		14L-4197		Bilal Munir		BS(CS)		CS406		Web Programming		304		
+311		14L-4197		Bilal Munir		BS(CS)		CS303		Software Engineering		305		
+312		14L-4197		Bilal Munir		BS(CS)		EE213		Comp. Organization and Assembly Lang.		306		
+313		14L-4197		Bilal Munir		BS(CS)		SS108		Technical and Business Writing		307		
+314		14L-4197		Bilal Munir		BS(CS)		CS422		Human Computer Interaction		308		
+315		14L-4204		Hamza Mansoor		BS(CS)		CS401		Artificial Intelligence		309		
+316		14L-4204		Hamza Mansoor		BS(CS)		CS302		Design and Analysis of Algorithms		310		
+317		14L-4204		Hamza Mansoor		BS(CS)		EE402		Digital Image Processing		311		
+318		14L-4205		Abdul Basit		BS(CS)		CS303		Software Engineering		312		
+319		14L-4205		Abdul Basit		BS(CS)		CS433		Advanced Programming		313		
+320		14L-4205		Abdul Basit		BS(CS)		CS401		Artificial Intelligence		314		
+321		14L-4205		Abdul Basit		BS(CS)		CL205		Operating Systems Lab		315		
+322		14L-4205		Abdul Basit		BS(CS)		CS406		Web Programming		316		
+323		14L-4205		Abdul Basit		BS(CS)		CS422		Human Computer Interaction		317		
+324		14L-4212		Rida Anwar		BS(CS)		CS497		Software Testing		318		
+325		14L-4212		Rida Anwar		BS(CS)		CS449		Professional Issues in IT		319		
+326		14L-4212		Rida Anwar		BS(CS)		CS422		Human Computer Interaction		320		
+327		14L-4212		Rida Anwar		BS(CS)		EE204		Computer Architecture		321		
+328		14L-4212		Rida Anwar		BS(CS)		CS491		Project - I		322		
+329		14L-4222		Muhammad Ali		BS(CS)		CS422		Human Computer Interaction		323		
+330		14L-4222		Muhammad Ali		BS(CS)		CS303		Software Engineering		324		
+331		14L-4222		Muhammad Ali		BS(CS)		EE204		Computer Architecture		325		
+332		14L-4222		Muhammad Ali		BS(CS)		CS447		Enterprise Information System		326		
+333		14L-4222		Muhammad Ali		BS(CS)		CS491		Project - I		327		
+334		14L-4231		Taseer Ijaz		BS(CS)		CS497		Software Testing		328		
+335		14L-4231		Taseer Ijaz		BS(CS)		CS402		Compiler Construction		329		
+336		14L-4240		Muaaz Tariq		BS(CS)		CS309		Object Oriented Analysis and Design		330		
+337		14L-4240		Muaaz Tariq		BS(CS)		CL307		Computer Networks Lab		331		
+338		14L-4240		Muaaz Tariq		BS(CS)		EE204		Computer Architecture		332		
+339		14L-4240		Muaaz Tariq		BS(CS)		CL309		Object Oriented Analysis and Design Lab		333		
+340		14L-4240		Muaaz Tariq		BS(CS)		CS307		Computer Networks		334		
+341		14L-4240		Muaaz Tariq		BS(CS)		EE402		Digital Image Processing		335		
+342		14L-4240		Muaaz Tariq		BS(CS)		CS422		Human Computer Interaction		336		
+343		14L-4241		Waleed Amjad		BS(CS)		CS422		Human Computer Interaction		337		
+344		14L-4241		Waleed Amjad		BS(CS)		CL205		Operating Systems Lab		338		
+345		14L-4241		Waleed Amjad		BS(CS)		CS497		Software Testing		339		
+346		14L-4241		Waleed Amjad		BS(CS)		CS303		Software Engineering		340		
+347		14L-4241		Waleed Amjad		BS(CS)		EE204		Computer Architecture		341		
+348		14L-4241		Waleed Amjad		BS(CS)		CS406		Web Programming		342		
+349		14L-4248		Hassan Zubair		BS(CS)		CL307		Computer Networks Lab		343		
+350		14L-4248		Hassan Zubair		BS(CS)		CS302		Design and Analysis of Algorithms		344		
+351		14L-4248		Hassan Zubair		BS(CS)		CS303		Software Engineering		345		
+352		14L-4248		Hassan Zubair		BS(CS)		EE204		Computer Architecture		346		
+353		14L-4248		Hassan Zubair		BS(CS)		CS307		Computer Networks		347		
+354		14L-4248		Hassan Zubair		BS(CS)		MT207		Numerical Methods		348		
+355		14L-4248		Hassan Zubair		BS(CS)		CS491		Project - I		349		
+356		14L-4251		Aqsa Bajwa		BS(CS)		CS497		Software Testing		350		
+357		14L-4251		Aqsa Bajwa		BS(CS)		EE204		Computer Architecture		351		
+358		14L-4262		Saba Abbas		BS(CS)		CS497		Software Testing		352		
+359		14L-4262		Saba Abbas		BS(CS)		CS411		Network Security		353		
+360		14L-4262		Saba Abbas		BS(CS)		CS481		Data Science		354		
+361		14L-4262		Saba Abbas		BS(CS)		CS449		Professional Issues in IT		355		
+362		14L-4262		Saba Abbas		BS(CS)		CS492		Project - II		356		
+363		14L-4270		Mohammad Iqbal		BS(CS)		CS451		Advance Database Concepts		357		
+364		14L-4270		Mohammad Iqbal		BS(CS)		CS449		Professional Issues in IT		358		
+365		14L-4270		Mohammad Iqbal		BS(CS)		CS406		Web Programming		359		
+366		14L-4270		Mohammad Iqbal		BS(CS)		CS447		Enterprise Information System		360		
+367		14L-4270		Mohammad Iqbal		BS(CS)		CS492		Project - II		361		
+368		14L-4278		Momin Shoaib		BS(CS)		CL307		Computer Networks Lab		362		
+369		14L-4278		Momin Shoaib		BS(CS)		EE204		Computer Architecture		363		
+370		14L-4278		Momin Shoaib		BS(CS)		CS303		Software Engineering		364		
+371		14L-4278		Momin Shoaib		BS(CS)		CS307		Computer Networks		365		
+372		14L-4278		Momin Shoaib		BS(CS)		CS302		Design and Analysis of Algorithms		366		
+373		14L-4278		Momin Shoaib		BS(CS)		CS440		Software for Mobile Devices		367		
+374		14L-4282		Muhammad Farooq		BS(CS)		SS217		Mass Communication		368		
+375		14L-4282		Muhammad Farooq		BS(CS)		CS481		Data Science		369		
+376		14L-4282		Muhammad Farooq		BS(CS)		CS492		Project - II		370		
+377		14L-4290		Burhan Tahir		BS(CS)		CS303		Software Engineering		371		
+378		14L-4290		Burhan Tahir		BS(CS)		CL307		Computer Networks Lab		372		
+379		14L-4290		Burhan Tahir		BS(CS)		CS307		Computer Networks		373		
+380		14L-4290		Burhan Tahir		BS(CS)		CS495		Fundamental of Computer Vision		374		
+381		14L-4290		Burhan Tahir		BS(CS)		CS422		Human Computer Interaction		375		
+382		14L-4290		Burhan Tahir		BS(CS)		CS491		Project - I		376		
+383		14L-4314		Abdul Hanan		BS(CS)		CS495		Fundamental of Computer Vision		377		
+384		14L-4314		Abdul Hanan		BS(CS)		CS481		Data Science		378		
+385		14L-4314		Abdul Hanan		BS(CS)		CS411		Network Security		379		
+386		14L-4314		Abdul Hanan		BS(CS)		CS449		Professional Issues in IT		380		
+387		14L-4314		Abdul Hanan		BS(CS)		EE204		Computer Architecture		381		
+388		14L-4314		Abdul Hanan		BS(CS)		CS492		Project - II		382		
+389		14L-4344		Hassan Jalal		BS(CS)		CS422		Human Computer Interaction		383		
+390		14L-4344		Hassan Jalal		BS(CS)		CL307		Computer Networks Lab		384		
+391		14L-4344		Hassan Jalal		BS(CS)		CS307		Computer Networks		385		
+392		14L-4344		Hassan Jalal		BS(CS)		CS301		Theory of Automata		386		
+393		14L-4344		Hassan Jalal		BS(CS)		EE204		Computer Architecture		387		
+394		14L-4344		Hassan Jalal		BS(CS)		CS401		Artificial Intelligence		388		
+395		14L-4344		Hassan Jalal		BS(CS)		CS491		Project - I		389		
+396		14L-4346		Ahmad Waleed		BS(CS)		CS205		Operating Systems		390		
+397		14L-4346		Ahmad Waleed		BS(CS)		CL203		Database Systems Lab		391		
+398		14L-4346		Ahmad Waleed		BS(CS)		CS401		Artificial Intelligence		392		
+399		14L-4346		Ahmad Waleed		BS(CS)		CS203		Database Systems		393		
+400		14L-4346		Ahmad Waleed		BS(CS)		CS406		Web Programming		394		
+401		14L-4346		Ahmad Waleed		BS(CS)		CL205		Operating Systems Lab		395		
+402		14L-4346		Ahmad Waleed		BS(CS)		CS497		Software Testing		396		
+403		14L-4362		Talal Mustafa		BS(EE)		EE305		Electromagnetic Theory		397		
+404		14L-4362		Talal Mustafa		BS(EE)		CL210		Data Structures and Algorithms - Lab		398		
+405		14L-4362		Talal Mustafa		BS(EE)		EL303		µP Interfacing and Programming Lab		399		
+406		14L-4362		Talal Mustafa		BS(EE)		EE303		µP Interfacing and Programming		400		
+407		14L-4362		Talal Mustafa		BS(EE)		CS210		Data Structures and Algorithms		401		
+408		14L-4362		Talal Mustafa		BS(EE)		EE433		Power Generation		402		
+409		14L-4362		Talal Mustafa		BS(EE)		EE482		Project - I		403		
+410		14L-4363		Sumayya Tanveer		BS(CS)		CS447		Enterprise Information System		404		
+411		14L-4363		Sumayya Tanveer		BS(CS)		CS449		Professional Issues in IT		405		
+412		14L-4363		Sumayya Tanveer		BS(CS)		CS411		Network Security		406		
+413		14L-4363		Sumayya Tanveer		BS(CS)		CS497		Software Testing		407		
+414		14L-4363		Sumayya Tanveer		BS(CS)		CS492		Project - II		408		
+415		14L-4388		Ali Adnan		BS(EE)		MG414		Entrepreneurship		409		
+416		14L-4388		Ali Adnan		BS(EE)		EE304		Feedback Control Systems		410		
+417		14L-4388		Ali Adnan		BS(EE)		CS531		Machine Learning		411		
+418		14L-4388		Ali Adnan		BS(EE)		EL304		Feedback Control Systems Lab		412		
+419		14L-4388		Ali Adnan		BS(EE)		EE483		Project - II		413		
+420		14L-4392		Atif Farooq		BS(EE)		EL303		µP Interfacing and Programming Lab		414		
+421		14L-4392		Atif Farooq		BS(EE)		MG414		Entrepreneurship		415		
+422		14L-4392		Atif Farooq		BS(EE)		EL224		Electronic Circuit Design Lab		416		
+423		14L-4392		Atif Farooq		BS(EE)		EE303		µP Interfacing and Programming		417		
+424		14L-4392		Atif Farooq		BS(EE)		CS531		Machine Learning		418		
+425		14L-4392		Atif Farooq		BS(EE)		EE224		Electronic Circuit Design		419		
+426		14L-4392		Atif Farooq		BS(EE)		EE483		Project - II		420		
+427		14L-4399		Muhammad Sheraz		BS(CS)		CS307		Computer Networks		421		
+428		14L-4399		Muhammad Sheraz		BS(CS)		CS302		Design and Analysis of Algorithms		422		
+429		14L-4399		Muhammad Sheraz		BS(CS)		CS449		Professional Issues in IT		423		
+430		14L-4399		Muhammad Sheraz		BS(CS)		CL307		Computer Networks Lab		424		
+431		14L-4399		Muhammad Sheraz		BS(CS)		CS481		Data Science		425		
+432		14L-4399		Muhammad Sheraz		BS(CS)		CS492		Project - II		426		
+433		14L-4401		Hassan Sohail		BS(CS)		CS440		Software for Mobile Devices		427		
+434		14L-4401		Hassan Sohail		BS(CS)		CL309		Object Oriented Analysis and Design Lab		428		
+435		14L-4401		Hassan Sohail		BS(CS)		EE204		Computer Architecture		429		
+436		14L-4401		Hassan Sohail		BS(CS)		CS309		Object Oriented Analysis and Design		430		
+437		14L-4401		Hassan Sohail		BS(CS)		CS422		Human Computer Interaction		431		
+438		14L-4422		Usama Aslam		BS(EE)		EL430		Power Distribution and Utilisation Lab		432		
+439		14L-4422		Usama Aslam		BS(EE)		EE430		Power Distribution and Utilisation		433		
+440		14L-4422		Usama Aslam		BS(EE)		EE433		Power Generation		434		
+441		14L-4422		Usama Aslam		BS(EE)		EE483		Project - II		435		
+442		14L-4431		Shahzeb Tauqir		BS(EE)		EE320		Digital Design		436		
+443		14L-4431		Shahzeb Tauqir		BS(EE)		MG414		Entrepreneurship		437		
+444		14L-4431		Shahzeb Tauqir		BS(EE)		EL320		Digital Design Lab		438		
+445		14L-4431		Shahzeb Tauqir		BS(EE)		CS531		Machine Learning		439		
+446		14L-4431		Shahzeb Tauqir		BS(EE)		EE483		Project - II		440		
+447		14L-4448		Mujtaba Shamsi		BS(EE)		MG222		Engineering Economics		441		
+448		14L-4448		Mujtaba Shamsi		BS(EE)		EE305		Electromagnetic Theory		442		
+449		14L-4452		Abdullah Zubair		BS(EE)		EE317		Data Communication and Networks		443		
+450		14L-4452		Abdullah Zubair		BS(EE)		EE303		µP Interfacing and Programming		444		
+451		14L-4452		Abdullah Zubair		BS(EE)		EL303		µP Interfacing and Programming Lab		445		
+452		14L-4452		Abdullah Zubair		BS(EE)		EL304		Feedback Control Systems Lab		446		
+453		14L-4452		Abdullah Zubair		BS(EE)		EE305		Electromagnetic Theory		447		
+454		14L-4452		Abdullah Zubair		BS(EE)		EL317		Data Communication and Networks Lab		448		
+455		14L-4452		Abdullah Zubair		BS(EE)		EE433		Power Generation		449		
+456		14L-4452		Abdullah Zubair		BS(EE)		EE482		Project - I		450		
+457		14L-4457		Mehran Shahid		BS(EE)		EE324		Power Electronics		451		
+458		14L-4457		Mehran Shahid		BS(EE)		EL324		Power Electronics - Lab		452		
+459		14L-4457		Mehran Shahid		BS(EE)		EE303		µP Interfacing and Programming		453		
+460		14L-4457		Mehran Shahid		BS(EE)		EL303		µP Interfacing and Programming Lab		454		
+461		14L-4457		Mehran Shahid		BS(EE)		EE483		Project - II		455		
+462		14L-4468		Aaqib Naeem		BS(EE)		EL426		Industrial Processes Control Lab		456		
+463		14L-4468		Aaqib Naeem		BS(EE)		EE324		Power Electronics		457		
+464		14L-4468		Aaqib Naeem		BS(EE)		EL324		Power Electronics - Lab		458		
+465		14L-4468		Aaqib Naeem		BS(EE)		EE426		Industrial Processes Control		459		
+466		14L-4493		Humza Ejaz		BS(EE)		EE215		Computer Organization and Architecture		460		
+467		14L-4493		Humza Ejaz		BS(EE)		EE317		Data Communication and Networks		461		
+468		14L-4493		Humza Ejaz		BS(EE)		MG222		Engineering Economics		462		
+469		14L-4493		Humza Ejaz		BS(EE)		EE304		Feedback Control Systems		463		
+470		14L-4493		Humza Ejaz		BS(EE)		EL317		Data Communication and Networks Lab		464		
+471		14L-4493		Humza Ejaz		BS(EE)		EL304		Feedback Control Systems Lab		465		
+472		14L-4493		Humza Ejaz		BS(EE)		EL215		Comp. Organization and Architecture Lab		466		
+473		14L-4504		Basit Riaz		BS(CS)		CS497		Software Testing		467		
+474		14L-4505		Hassan Zahid		BS(EE)		EL430		Power Distribution and Utilisation Lab		468		
+475		14L-4505		Hassan Zahid		BS(EE)		EE433		Power Generation		469		
+476		14L-4505		Hassan Zahid		BS(EE)		EE323		Analogue and Digital Communication		470		
+477		14L-4505		Hassan Zahid		BS(EE)		EL323		Analogue and Digital Communication - Lab		471		
+478		14L-4505		Hassan Zahid		BS(EE)		EE430		Power Distribution and Utilisation		472		
+479		14L-4505		Hassan Zahid		BS(EE)		EE483		Project - II		473		
+480		14L-4513		Mudassar Seemab		BS(EE)		MG414		Entrepreneurship		474		
+481		14L-4513		Mudassar Seemab		BS(EE)		MT104		Linear Algebra		475		
+482		14L-4513		Mudassar Seemab		BS(EE)		EE426		Industrial Processes Control		476		
+483		14L-4513		Mudassar Seemab		BS(EE)		EL320		Digital Design Lab		477		
+484		14L-4513		Mudassar Seemab		BS(EE)		EE320		Digital Design		478		
+485		14L-4513		Mudassar Seemab		BS(EE)		CS213		Fundamentals of Databases		479		
+486		14L-4513		Mudassar Seemab		BS(EE)		EL426		Industrial Processes Control Lab		480		
+487		14L-4513		Mudassar Seemab		BS(EE)		CL213		Fundamentals of Databases - Lab		481		
+488		14L-4514		Talha Rana		BS(EE)		MG222		Engineering Economics		482		
+489		14L-4514		Talha Rana		BS(EE)		EE221		Electro Mechanical Systems		483		
+490		14L-4514		Talha Rana		BS(EE)		EL221		Electro Mechanical Systems Lab		484		
+491		14L-4514		Talha Rana		BS(EE)		EE215		Computer Organization and Architecture		485		
+492		14L-4514		Talha Rana		BS(EE)		EL215		Comp. Organization and Architecture Lab		486		
+493		14L-4517		Shehryar Hasan		BS(EE)		EE426		Industrial Processes Control		487		
+494		14L-4517		Shehryar Hasan		BS(EE)		EL426		Industrial Processes Control Lab		488		
+495		14L-4517		Shehryar Hasan		BS(EE)		MG414		Entrepreneurship		489		
+496		14L-4517		Shehryar Hasan		BS(EE)		MG222		Engineering Economics		490		
+497		14L-4517		Shehryar Hasan		BS(EE)		EE483		Project - II		491		
+498		14L-4520		Taimoor Mirza		BS(CS)		CS497		Software Testing		492		
+499		14L-4520		Taimoor Mirza		BS(CS)		SS108		Technical and Business Writing		493		
+500		14L-4520		Taimoor Mirza		BS(CS)		CS411		Network Security		494		
+501		14L-4520		Taimoor Mirza		BS(CS)		CS449		Professional Issues in IT		495		
+502		14L-4520		Taimoor Mirza		BS(CS)		CS492		Project - II		496		
+503		14L-4521		Anas		BS(CS)		CS497		Software Testing		497		
+504		14L-4521		Anas		BS(CS)		CS422		Human Computer Interaction		498		
+505		14L-4521		Anas		BS(CS)		CS205		Operating Systems		499		
+506		14L-4521		Anas		BS(CS)		CS302		Design and Analysis of Algorithms		500		
+507		14L-4521		Anas		BS(CS)		CL205		Operating Systems Lab		501		
+508		14L-4521		Anas		BS(CS)		CS495		Fundamental of Computer Vision		502		
+509		14L-4522		Ahsan Zafar		BS(CS)		CS301		Theory of Automata		503		
+510		14L-4522		Ahsan Zafar		BS(CS)		EE204		Computer Architecture		504		
+511		14L-4522		Ahsan Zafar		BS(CS)		CS401		Artificial Intelligence		505		
+512		14L-4522		Ahsan Zafar		BS(CS)		SS108		Technical and Business Writing		506		
+513		14L-4522		Ahsan Zafar		BS(CS)		MT203		Differential Equations		507		
+514		14L-4525		Samnan Khalil		BS(CV)		CV415		Hazards and Disaster Management		508		
+515		14L-4525		Samnan Khalil		BS(CV)		VL413		Irrigation and Drainage Engineering - Lab		509		
+516		14L-4525		Samnan Khalil		BS(CV)		CV412		Hydraulic Engineering		510		
+517		14L-4525		Samnan Khalil		BS(CV)		VL412		Hydraulic Engineering - Lab		511		
+518		14L-4525		Samnan Khalil		BS(CV)		CV401		Construction Management		512		
+519		14L-4525		Samnan Khalil		BS(CV)		CV411		Design of Structures		513		
+520		14L-4525		Samnan Khalil		BS(CV)		CV413		Irrigation and Drainage Engineering		514		
+521		14L-4525		Samnan Khalil		BS(CV)		CV483		Project - II		515		
+522		14L-4606		Rabia Tariq		BBA		MG412		Sales Management		516		
+523		14L-4606		Rabia Tariq		BBA		MG312		Financial Institutions and Markets		517		
+524		14L-4606		Rabia Tariq		BBA		MG419		Final Year Project - II		518		
+525		14L-4610		Ahmar Ali		BBA		MG317		Brand Management		519		
+526		14L-4610		Ahmar Ali		BBA		MG324		Business Ethics		520		
+527		14L-4610		Ahmar Ali		BBA		MG409		Organizational Development and Change		521		
+528		14L-4610		Ahmar Ali		BBA		MG419		Final Year Project - II		522		
+529		14L-4652		Kainat Rasheed		BBA		MG414		Entrepreneurship		523		
+530		14L-4652		Kainat Rasheed		BBA		MG324		Business Ethics		524		
+531		14L-4652		Kainat Rasheed		BBA		MG412		Sales Management		525		
+532		14L-4652		Kainat Rasheed		BBA		MG302		Business Law		526		
+533		14L-4652		Kainat Rasheed		BBA		MG419		Final Year Project - II		527		
+534		14L-4666		Saba Farooq		BBA		MG336		Principles of Leadership		528		
+535		14L-4666		Saba Farooq		BBA		MG324		Business Ethics		529		
+536		14L-4666		Saba Farooq		BBA		MG412		Sales Management		530		
+537		14L-4668		Sara Salim		BBA		MG336		Principles of Leadership		531		
+538		14L-4668		Sara Salim		BBA		MG409		Organizational Development and Change		532		
+539		14L-4668		Sara Salim		BBA		MG419		Final Year Project - II		533		
+540		14L-4750		Zeeshan Jamil		BBA		MG419		Final Year Project - II		534		
+541		14L-4752		Roeyd Najeeb		BBA		SL225		English II - Lab		535		
+542		14L-4771		Ghulam Mustafa		BBA		MG414		Entrepreneurship		536		
+543		14L-4771		Ghulam Mustafa		BBA		MG302		Business Law		537		
+544		14L-4771		Ghulam Mustafa		BBA		MG307		International Business		538		
+545		14L-4771		Ghulam Mustafa		BBA		MG324		Business Ethics		539		
+546		14L-4771		Ghulam Mustafa		BBA		MG440		Final Year Project - I		540		
+547		14L-4773		Zeeshan Shahid		BBA		MG414		Entrepreneurship		541		
+548		14L-4773		Zeeshan Shahid		BBA		MG336		Principles of Leadership		542		
+549		14L-4773		Zeeshan Shahid		BBA		MG324		Business Ethics		543		
+550		14L-4773		Zeeshan Shahid		BBA		MG302		Business Law		544		
+551		14L-4773		Zeeshan Shahid		BBA		MG419		Final Year Project - II		545		
+552		14L-4781		Zainab Naveed		BBA		MG312		Financial Institutions and Markets		546		
+553		14L-4781		Zainab Naveed		BBA		MG336		Principles of Leadership		547		
+554		14L-4781		Zainab Naveed		BBA		MG317		Brand Management		548		
+555		14L-4781		Zainab Naveed		BBA		MG419		Final Year Project - II		549		
+556		14L-4784		Taha Noman		BBA		SL225		English II - Lab		550		
+557		14L-4784		Taha Noman		BBA		SS309		Business Communication - II		551		
+558		14L-4784		Taha Noman		BBA		MG312		Financial Institutions and Markets		552		
+559		14L-4784		Taha Noman		BBA		CS310		Management Info. Systems		553		
+560		14L-4784		Taha Noman		BBA		SS225		English - II		554		
+561		14L-4784		Taha Noman		BBA		CL310		Management Info. Systems - Lab		555		
+562		14L-4784		Taha Noman		BBA		MG442		Islamic Banking		556		
+563		14L-4784		Taha Noman		BBA		MG419		Final Year Project - II		557		
+564		14L-4793		Javeria Badar		BBA		MG324		Business Ethics		558		
+565		14L-4793		Javeria Badar		BBA		MG414		Entrepreneurship		559		
+566		14L-4799		Talha Amjad		BBA		MG419		Final Year Project - II		560		
+567		14L-4813		Muhammad Abubakar		BBA		MG412		Sales Management		561		
+568		14L-4813		Muhammad Abubakar		BBA		SL225		English II - Lab		562		
+569		14L-4813		Muhammad Abubakar		BBA		MG336		Principles of Leadership		563		
+570		14L-4813		Muhammad Abubakar		BBA		CL310		Management Info. Systems - Lab		564		
+571		14L-4813		Muhammad Abubakar		BBA		MG419		Final Year Project - II		565		
+572		14L-4814		Omar Mahmood		BBA		MG414		Entrepreneurship		566		
+573		14L-4814		Omar Mahmood		BBA		MG442		Islamic Banking		567		
+574		14L-4814		Omar Mahmood		BBA		MG302		Business Law		568		
+575		14L-4814		Omar Mahmood		BBA		MG324		Business Ethics		569		
+576		14L-4814		Omar Mahmood		BBA		MG419		Final Year Project - II		570		
+577		14L-4952		Murtaza Ali		BS(AF)		MG412		Sales Management		571		
+578		14L-4952		Murtaza Ali		BS(AF)		MG419		Final Year Project - II		572		
+579		14L-4998		Javeria Hameed		BS(AF)		MG416		Financial Risk Management		573		
+580		14L-4998		Javeria Hameed		BS(AF)		MG428		Taxation		574		
+581		14L-4998		Javeria Hameed		BS(AF)		MG324		Business Ethics		575		
+582		14L-4998		Javeria Hameed		BS(AF)		MG312		Financial Institutions and Markets		576		
+583		14L-4998		Javeria Hameed		BS(AF)		MG317		Brand Management		577		
+584		14L-4998		Javeria Hameed		BS(AF)		MG419		Final Year Project - II		578		

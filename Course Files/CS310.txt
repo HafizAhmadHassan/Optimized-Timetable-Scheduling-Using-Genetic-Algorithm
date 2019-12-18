@@ -1,0 +1,4 @@
+CS310		Management Info. Systems
+==========================================
+553	14L-4784	Taha Noman
+136	13L-4733	Ameera Iqbal

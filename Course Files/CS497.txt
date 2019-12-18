@@ -1,0 +1,21 @@
+CS497		Software Testing
+==========================================
+328	14L-4231	Taseer Ijaz
+407	14L-4363	Sumayya Tanveer
+156	13L-5492	Saud Zaman
+318	14L-4212	Rida Anwar
+492	14L-4520	Taimoor Mirza
+213	14L-4059	Abdur Rafay
+497	14L-4521	Anas
+64	13L-4253	Usama Zulfiqar
+396	14L-4346	Ahmad Waleed
+185	14I-0242	Waqar Aslam
+249	14L-4118	Riaz Tariq
+467	14L-4504	Basit Riaz
+11	12L-4276	Ghayyur Ali
+47	13L-4155	Mudassar Sharif
+34	13L-4049	Sheraz Ahmad
+49	13L-4159	Bilal Anees
+350	14L-4251	Aqsa Bajwa
+352	14L-4262	Saba Abbas
+339	14L-4241	Waleed Amjad

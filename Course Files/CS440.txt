@@ -1,0 +1,13 @@
+CS440		Software for Mobile Devices
+==========================================
+44	13L-4093	Muhammad Kazim
+367	14L-4278	Momin Shoaib
+237	14L-4103	Abdul Sami
+427	14L-4401	Hassan Sohail
+243	14L-4116	Meesam Ali
+184	14I-0242	Waqar Aslam
+77	13L-4322	Shahrose Khaliq
+246	14L-4118	Riaz Tariq
+167	13L-5844	Waqas Nadeem
+256	14L-4150	Habibah Shahid
+266	14L-4161	Dawood Umer

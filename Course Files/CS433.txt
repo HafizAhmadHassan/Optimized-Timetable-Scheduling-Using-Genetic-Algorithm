@@ -1,0 +1,7 @@
+CS433		Advanced Programming
+==========================================
+264	14L-4156	Ibrahim Khwaja
+236	14L-4103	Abdul Sami
+313	14L-4205	Abdul Basit
+177	13L-5943	Hamza Farooq
+28	13L-4038	Muhammad Hanif

@@ -1,0 +1,4 @@
+EE221		Electro Mechanical Systems
+==========================================
+107	13L-4483	Haseeb Ahsan
+483	14L-4514	Talha Rana

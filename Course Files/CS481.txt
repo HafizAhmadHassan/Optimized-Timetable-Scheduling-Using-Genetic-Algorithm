@@ -1,0 +1,12 @@
+CS481		Data Science
+==========================================
+155	13L-5492	Saud Zaman
+186	14I-1618	Asad Riaz
+425	14L-4399	Muhammad Sheraz
+211	14L-4059	Abdur Rafay
+378	14L-4314	Abdul Hanan
+295	14L-4191	Usman Kabir
+369	14L-4282	Muhammad Farooq
+72	13L-4316	Usman Shabbir
+48	13L-4159	Bilal Anees
+354	14L-4262	Saba Abbas

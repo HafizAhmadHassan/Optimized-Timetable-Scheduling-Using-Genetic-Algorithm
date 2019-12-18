@@ -1,0 +1,7 @@
+CS451		Advance Database Concepts
+==========================================
+188	14L-4006	Maha Saeed
+357	14L-4270	Mohammad Iqbal
+259	14L-4150	Habibah Shahid
+29	13L-4038	Muhammad Hanif
+225	14L-4076	Usman Javed

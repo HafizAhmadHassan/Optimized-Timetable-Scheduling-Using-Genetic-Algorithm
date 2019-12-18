@@ -1,0 +1,7 @@
+EE402		Digital Image Processing
+==========================================
+62	13L-4253	Usama Zulfiqar
+68	13L-4294	Muhammad Haris
+311	14L-4204	Hamza Mansoor
+283	14L-4174	Muhammad Abdullah
+335	14L-4240	Muaaz Tariq

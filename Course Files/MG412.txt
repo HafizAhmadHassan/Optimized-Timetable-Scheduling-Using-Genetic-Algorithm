@@ -1,0 +1,7 @@
+MG412		Sales Management
+==========================================
+525	14L-4652	Kainat Rasheed
+530	14L-4666	Saba Farooq
+571	14L-4952	Murtaza Ali
+561	14L-4813	Muhammad Abubakar
+516	14L-4606	Rabia Tariq

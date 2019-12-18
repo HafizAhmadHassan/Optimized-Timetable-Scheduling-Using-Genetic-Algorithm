@@ -1,0 +1,10 @@
+CS495		Fundamental of Computer Vision
+==========================================
+205	14L-4023	Ghilman Khurshid
+198	14L-4014	Abdul Rafey
+502	14L-4521	Anas
+377	14L-4314	Abdul Hanan
+289	14L-4190	Arslan
+222	14L-4070	Muhammad Ehsan
+374	14L-4290	Burhan Tahir
+269	14L-4161	Dawood Umer

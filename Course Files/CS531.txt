@@ -1,0 +1,6 @@
+CS531		Machine Learning
+==========================================
+89	13L-4419	Waleed Ahmed
+439	14L-4431	Shahzeb Tauqir
+411	14L-4388	Ali Adnan
+418	14L-4392	Atif Farooq

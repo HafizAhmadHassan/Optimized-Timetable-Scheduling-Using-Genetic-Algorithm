@@ -1,0 +1,9 @@
+EE303		µP Interfacing and Programming
+==========================================
+444	14L-4452	Abdullah Zubair
+112	13L-4483	Haseeb Ahsan
+453	14L-4457	Mehran Shahid
+116	13L-4509	Aneeq Ali
+417	14L-4392	Atif Farooq
+129	13L-4555	Rizwan Mahmood
+400	14L-4362	Talal Mustafa

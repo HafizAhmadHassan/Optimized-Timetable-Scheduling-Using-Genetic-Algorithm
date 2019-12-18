@@ -1,0 +1,4 @@
+EE320		Digital Design
+==========================================
+436	14L-4431	Shahzeb Tauqir
+478	14L-4513	Mudassar Seemab

@@ -1,0 +1,17 @@
+CS303		Software Engineering
+==========================================
+324	14L-4222	Muhammad Ali
+199	14L-4014	Abdul Rafey
+364	14L-4278	Momin Shoaib
+278	14L-4169	Nadia Batool
+41	13L-4088	Naffah Amin
+345	14L-4248	Hassan Zubair
+312	14L-4205	Abdul Basit
+82	13L-4328	Abdul Khaliq
+149	13L-5401	Rashid Mahmood
+293	14L-4191	Usman Kabir
+371	14L-4290	Burhan Tahir
+31	13L-4049	Sheraz Ahmad
+87	13L-4347	Muhammad Asif
+305	14L-4197	Bilal Munir
+340	14L-4241	Waleed Amjad

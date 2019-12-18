@@ -1,0 +1,16 @@
+CS447		Enterprise Information System
+==========================================
+252	14L-4143	Bilal Iqbal
+404	14L-4363	Sumayya Tanveer
+263	14L-4156	Ibrahim Khwaja
+326	14L-4222	Muhammad Ali
+66	13L-4253	Usama Zulfiqar
+69	13L-4294	Muhammad Haris
+241	14L-4116	Meesam Ali
+58	13L-4240	Usama Sajid
+17	12L-5541	Tauheed
+158	13L-5837	Isfand Yar
+360	14L-4270	Mohammad Iqbal
+231	14L-4084	Maida Tariq
+273	14L-4162	Farukh Jamal
+56	13L-4214	Muhammad Ahmad
