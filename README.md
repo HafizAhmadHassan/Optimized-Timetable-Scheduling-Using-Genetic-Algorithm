@@ -26,10 +26,10 @@ Download this project and import it on IntelliJ
 
 I will upload demo video soon
 
-## Results
+## How to Run
+
 Just click on Driver file and  click on run
 
-Special thanks to Ahsan for Colleboration
 
 ## Contact us
 
