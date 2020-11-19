@@ -35,8 +35,12 @@ Special thanks to Ahsan for Colleboration
 
 Any issues and quries
 
-Email : ahmadhassan061@gmail.com
-        hafizahmad.hassan@studenti.univr.it
-        l154359@lhr.nu.edu.pk        
+Email : 
+ahmadhassan061@gmail.com
+
+hafizahmad.hassan@studenti.univr.it
+
+l154359@lhr.nu.edu.pk        
+
 webiste : hafizahmadhassan.github.io/ds
 
